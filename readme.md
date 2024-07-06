@@ -1,4 +1,4 @@
-<h1 align="center">Explanation Task</h1>
+<h1 align="center">Explanation Task of Balanced Bracket</h1>
 
 
 <p align="left">In case number 2 (BalancedBracket), the code usage uses a linear time complexity type O(n) with n is the length of the string s. This linear complexity arises from the need to iterate through each character of the string exactly once to determine if the brackets are balanced.</p>
